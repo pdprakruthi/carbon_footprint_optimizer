@@ -66,5 +66,5 @@ This project is for educational purposes only
 
 Developed by [Prakruthi P D](https://github.com/pdprakruthi)
 
-under the guidance of 
+under the guidance of [Dr Victor Ikechukwu](https://github.com/Victor-Ikechukwu/Victor-Ikechukwu)
 
