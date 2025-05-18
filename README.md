@@ -1,7 +1,4 @@
 
----
-
-````markdown
 # 🌱 Carbon Footprint Optimizer
 
 ## 📘 About the Project
@@ -92,28 +89,20 @@ streamlit run app.py
 
 If you’d like to improve this project, feel free to fork the repository and submit a pull request! 🚀
 
+Developed by [Prakruthi P D](https://github.com/pdprakruthi)
+
+Under the guidance of [Dr. Victor Ikechukwu](https://github.com/Victor-Ikechukwu/Victor-Ikechukwu)
+
+
 ---
 
 ## 📄 License
 
 This project is for **educational purposes only**.
 
----
 
-## 📞 Contact
 
-Developed by [Prakruthi P D](https://github.com/pdprakruthi)
-Under the guidance of [Dr. Victor Ikechukwu](https://github.com/Victor-Ikechukwu/Victor-Ikechukwu)
 
-````
 
----
 
-### 🔧 Notes:
-- The `![App Screenshot](...)` line uses a placeholder URL (`via.placeholder.com`). You can replace it with an actual image uploaded to your GitHub repo, like:
 
-```markdown
-![App Screenshot](images/screenshot.png)
-````
-
-Let me know if you want help uploading and linking your actual screenshot or want to convert this to a PDF.
