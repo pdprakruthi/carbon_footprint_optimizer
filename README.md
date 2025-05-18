@@ -62,6 +62,9 @@ If you’d like to improve this project, feel free to fork the repository and su
 License
 This project is for educational purposes only
 
-Contact
-Developed by Prakruthi GitHub:[Prakruthi P D](https://github.com/pdprakruthi)
+## 📞 Contact
+
+Developed by [Prakruthi P D](https://github.com/pdprakruthi)
+
+under the guidance of 
 
