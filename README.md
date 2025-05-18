@@ -18,21 +18,21 @@ _Example output below (replace with an actual screenshot):_
 ```bash
 git clone https://github.com/pdprakruthi/carbon_footprint_optimizer.git
 
-## **Navigate to the Project Folder**
+### **2.Navigate to the Project Folder**
 cd carbon_footprint_optimizer
 
-## **Create Virtual Environment**
+### **3.Create Virtual Environment**
 python -m venv .venv
 source .venv/bin/activate  # macOS/Linux
 .\.venv\Scripts\Activate   # Windows
 
-## **Install Dependencies**
+### **4.Install Dependencies**
 pip install -r requirements.txt
 
-## **Run the Streamlit App**
+### **5.Run the Streamlit App**
 streamlit run app.py
 
-## **How It Works**
+### **6.How It Works**
 1.User Inputs: Enter values for transportation, energy, food consumption, and other activities.
 
 2.Carbon Footprint Calculation: The app computes total emissions in kg CO₂ per month.
@@ -41,11 +41,27 @@ streamlit run app.py
 
 4.Visualization: Displays a breakdown of emissions in a bar chart.
 
+### **7.📦 Dependencies
+Python 3.10+
+
+pandas
+
+scikit-learn
+
+numpy
+
+matplotlib
+
+seaborn
+
+streamlit
+
 Contributing
 If you’d like to improve this project, feel free to fork the repository and submit a pull request! 🚀
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is for educational purposes only
 
 Contact
-Developed by Prakruthi GitHub: pdprakruthi
+Developed by Prakruthi GitHub:[Prakruthi P D](https://github.com/pdprakruthi)
+
