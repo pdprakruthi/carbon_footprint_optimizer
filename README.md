@@ -6,6 +6,7 @@
 The **Carbon Footprint Optimizer** helps users estimate their monthly carbon emissions based on activities like transportation, energy consumption, food choices, and other lifestyle factors. It also provides actionable suggestions to reduce carbon footprint.
 
 ---
+...Comment on the Methodology that was followed...
 
 ## ✨ Features
 
